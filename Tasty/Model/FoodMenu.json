@@ -1,0 +1,124 @@
+
+[
+    {
+        "categoryID": 1,
+        "categoryName": "pizza",
+        "items": [
+            {
+                "foodID": 101,
+                "foodName": "Farmhouse",
+                "ingridents": "Herbed Onion & Green Capsicum, Red Capsicum, Mushroom, Baby Corn",
+                "rating": 4.5,
+                "price": 500,
+                "isSelected": false
+            },
+            {
+                "foodID": 102,
+                "foodName": "Chicken Feast",
+                "ingridents": "Schezwan Chicken Meatball, Herbed Chicken, Chicken Sausage, Green Capsicum, Onion, Red Paprika",
+                "rating": 4.5,
+                "price": 750,
+                "isSelected": true
+            },
+            {
+                "foodID": 103,
+                "foodName": "Veg Supreme",
+                "ingridents": "Black Olives, Green Capsicum, Mushroom, Onion, Red Paprika, Sweet Corn",
+                "rating": 4.5,
+                "price": 600,
+                "isSelected": true
+            }
+        ]
+    },
+    {
+        "categoryID": 2,
+        "categoryName": "burger",
+        "items": [
+            {
+                "foodID": 201,
+                "foodName": "Classic Veg",
+                "ingridents": "Herbed Onion & Green Capsicum, Red Capsicum, Mushroom, Baby Corn",
+                "rating": 4.5,
+                "price": 200,
+                "isSelected": true
+            },
+            {
+                "foodID": 202,
+                "foodName": "Fried Chicken",
+                "ingridents": "Schezwan Chicken Meatball, Herbed Chicken, Chicken Sausage, Green Capsicum, Onion, Red Paprika",
+                "rating": 4.5,
+                "price": 500,
+                "isSelected": false
+            },
+            {
+                "foodID": 203,
+                "foodName": "Chicken Double Patty",
+                "ingridents": "Black Olives, Green Capsicum, Mushroom, Onion, Red Paprika, Sweet Corn",
+                "rating": 4.5,
+                "price": 500,
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "categoryID": 3,
+        "categoryName": "Snacks",
+        "items": [
+            {
+                "foodID": 301,
+                "foodName": "Garlic Bread",
+                "ingridents": "Freshly Baked, Buttery Garlic Bread Stix, Topped With A Gooey Cheese Sauce",
+                "rating": 4.5,
+                "price": 300,
+                "isSelected": false
+            },
+            {
+                "foodID": 302,
+                "foodName": "French Fries",
+                "ingridents": "Jalapeno Poppers with Sauce",
+                "rating": 4.5,
+                "price": 300,
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "categoryID": 4,
+        "categoryName": "beverages",
+        "items": [
+            {
+                "foodID": 401,
+                "foodName": "Coffee",
+                "ingridents": "Contains Caffeine",
+                "rating": 4.5,
+                "price": 100,
+                "isSelected": true
+            },
+            {
+                "foodID": 402,
+                "foodName": "Coke",
+                "ingridents": "Contains Caffeine, Sugar",
+                "rating": 4.5,
+                "price": 100,
+                "isSelected": false
+            },
+            {
+                "foodID": 403,
+                "foodName": "Stawberry Milkshake",
+                "ingridents": "Stawberry, Milk, Ice Cream",
+                "rating": 4.5,
+                "price": 200,
+                "isSelected": true
+            },
+            {
+                "foodID": 404,
+                "foodName": "Chocolate Milkshake",
+                "ingridents": "Chocolate, Milk, Ice Cream",
+                "rating": 4.5,
+                "price": 200,
+                "isSelected": false
+            }
+        ]
+    }
+    
+]
