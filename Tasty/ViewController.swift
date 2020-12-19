@@ -149,7 +149,7 @@ extension ViewController: UITableViewDelegate {
         sectionButton.contentEdgeInsets = UIEdgeInsets(top: 5, left: 20, bottom: 5, right: 20)
         sectionButton.setTitleColor(.systemYellow, for: .normal)
         sectionButton.contentHorizontalAlignment = .left
-        sectionButton.backgroundColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
+        sectionButton.backgroundColor = .systemGroupedBackground
         
         let title = self.foodViewModel.foodMenu[section - 1].categoryName?.uppercased() ?? ""
         let attributedString = NSAttributedString(string: title, attributes: [NSAttributedString.Key.font : UIFont.boldSystemFont(ofSize: 16)])
